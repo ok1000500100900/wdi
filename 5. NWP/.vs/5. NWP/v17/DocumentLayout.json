@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kamin\\Desktop\\wdi\\5. NWP\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EAD18DDC-E5C6-4E52-B39F-7ACA3B06DBA2}|5. NWP\\5. NWP.vcxproj|C:\\Users\\kamin\\Desktop\\wdi\\5. NWP\\5. NWP\\5. NWP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EAD18DDC-E5C6-4E52-B39F-7ACA3B06DBA2}|5. NWP\\5. NWP.vcxproj|solutionrelative:5. NWP\\5. NWP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "5. NWP.cpp",
-              "DocumentMoniker": "C:\\Users\\kamin\\Desktop\\wdi\\5. NWP\\5. NWP\\5. NWP.cpp",
-              "RelativeDocumentMoniker": "5. NWP\\5. NWP.cpp",
-              "ToolTip": "C:\\Users\\kamin\\Desktop\\wdi\\5. NWP\\5. NWP\\5. NWP.cpp",
-              "RelativeToolTip": "5. NWP\\5. NWP.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T06:16:30.266Z",
-              "EditorCaption": ""
             }
           ]
         }

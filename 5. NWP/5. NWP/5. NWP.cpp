@@ -8,14 +8,14 @@ int NWP(int x, int y);
 int nwp;
 int temp;
 int rest;
-int NWP1(int x, int y);
+int test();
 
 int main()
 {
+  printf("%d ", test());
   printf("Podaj dwie liczby: ");
   cin >> x >> y;
   printf("Ich najwiekszy wspolny podzielnik to %d", NWP(x,y));
-  test();
   return 0;
 }
 

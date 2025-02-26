@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamin\\Desktop\\wdi\\9. Liczba zaprzyja\u017Anionaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB56E73-DFB4-44A9-A7B1-A0340D81ADA0}|9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa.vcxproj|C:\\Users\\kamin\\Desktop\\wdi\\9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AB56E73-DFB4-44A9-A7B1-A0340D81ADA0}|9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa.vcxproj|solutionrelative:9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9. Liczba zaprzyja\u017Anionaa.cpp",
+              "DocumentMoniker": "C:\\Users\\kamin\\Desktop\\wdi\\9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa.cpp",
+              "RelativeDocumentMoniker": "9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa.cpp",
+              "ToolTip": "C:\\Users\\kamin\\Desktop\\wdi\\9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa.cpp",
+              "RelativeToolTip": "9. Liczba zaprzyja\u017Anionaa\\9. Liczba zaprzyja\u017Anionaa.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T13:11:13.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

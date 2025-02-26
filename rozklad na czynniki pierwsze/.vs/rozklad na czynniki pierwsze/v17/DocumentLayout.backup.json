@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamin\\Desktop\\wdi\\rozklad na czynniki pierwsze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437F3C33-513B-458D-BC0B-6CB58694CCE0}|rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze.vcxproj|C:\\Users\\kamin\\Desktop\\wdi\\rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{437F3C33-513B-458D-BC0B-6CB58694CCE0}|rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze.vcxproj|solutionrelative:rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rozklad na czynniki pierwsze.cpp",
+              "DocumentMoniker": "C:\\Users\\kamin\\Desktop\\wdi\\rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze.cpp",
+              "RelativeDocumentMoniker": "rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze.cpp",
+              "ToolTip": "C:\\Users\\kamin\\Desktop\\wdi\\rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze.cpp",
+              "RelativeToolTip": "rozklad na czynniki pierwsze\\rozklad na czynniki pierwsze.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T21:15:51.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

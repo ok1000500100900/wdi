@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamin\\Desktop\\wdi\\NaEgzamin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{530DD077-0881-42E8-B93B-FC11B9443E41}|NaEgzamin\\NaEgzamin.vcxproj|C:\\Users\\kamin\\Desktop\\wdi\\NaEgzamin\\NaEgzamin\\NaEgzamin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{530DD077-0881-42E8-B93B-FC11B9443E41}|NaEgzamin\\NaEgzamin.vcxproj|solutionrelative:NaEgzamin\\NaEgzamin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NaEgzamin.cpp",
+              "DocumentMoniker": "C:\\Users\\kamin\\Desktop\\wdi\\NaEgzamin\\NaEgzamin\\NaEgzamin.cpp",
+              "RelativeDocumentMoniker": "NaEgzamin\\NaEgzamin.cpp",
+              "ToolTip": "C:\\Users\\kamin\\Desktop\\wdi\\NaEgzamin\\NaEgzamin\\NaEgzamin.cpp",
+              "RelativeToolTip": "NaEgzamin\\NaEgzamin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T14:42:28.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

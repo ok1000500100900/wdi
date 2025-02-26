@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamin\\Desktop\\wdi\\6.NWW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CA1B59-1DFD-4E71-A39F-AB1CF7A7FC4C}|6.NWW\\6.NWW.vcxproj|C:\\Users\\kamin\\Desktop\\wdi\\6.NWW\\6.NWW\\6.NWW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1CA1B59-1DFD-4E71-A39F-AB1CF7A7FC4C}|6.NWW\\6.NWW.vcxproj|solutionrelative:6.NWW\\6.NWW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.NWW.cpp",
+              "DocumentMoniker": "C:\\Users\\kamin\\Desktop\\wdi\\6.NWW\\6.NWW\\6.NWW.cpp",
+              "RelativeDocumentMoniker": "6.NWW\\6.NWW.cpp",
+              "ToolTip": "C:\\Users\\kamin\\Desktop\\wdi\\6.NWW\\6.NWW\\6.NWW.cpp",
+              "RelativeToolTip": "6.NWW\\6.NWW.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T12:48:30.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

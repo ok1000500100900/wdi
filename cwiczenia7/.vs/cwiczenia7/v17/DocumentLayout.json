@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamin\\Desktop\\wdi\\cwiczenia7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93D37579-94F2-416B-8E2C-8CE77ABF75FC}|cwiczenia7\\cwiczenia7.vcxproj|C:\\Users\\kamin\\Desktop\\wdi\\cwiczenia7\\cwiczenia7\\cwiczenia7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93D37579-94F2-416B-8E2C-8CE77ABF75FC}|cwiczenia7\\cwiczenia7.vcxproj|solutionrelative:cwiczenia7\\cwiczenia7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cwiczenia7.cpp",
+              "DocumentMoniker": "C:\\Users\\kamin\\Desktop\\wdi\\cwiczenia7\\cwiczenia7\\cwiczenia7.cpp",
+              "RelativeDocumentMoniker": "cwiczenia7\\cwiczenia7.cpp",
+              "ToolTip": "C:\\Users\\kamin\\Desktop\\wdi\\cwiczenia7\\cwiczenia7\\cwiczenia7.cpp",
+              "RelativeToolTip": "cwiczenia7\\cwiczenia7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T09:18:08.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
